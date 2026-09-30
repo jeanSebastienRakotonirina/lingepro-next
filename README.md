@@ -26,12 +26,6 @@ npm run dev                   # nodemon + next (rechargement auto)
 
 Scripts : `npm run dev` (nodemon), `npm run dev:next` (Next seul), `npm run seed`.
 
-| Compte | Mot de passe | Rôle |
-|--------|--------------|------|
-| demo@lingepro.fr | Demo123! | Admin |
-| marie@lingepro.fr | Op1234! | Opérateur |
-| paul@lingepro.fr | Drv123! | Livreur |
-| contact@legourmet.fr | Cli123! | Client |
 
 ## Automatisation
 
